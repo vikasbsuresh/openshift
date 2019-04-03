@@ -1,0 +1,3 @@
+docker search ubuntu -- searching for ubuntu image
+docker run -it ubuntu -- launch ubuntu 
+docker ps -- list all the containers
